@@ -1,0 +1,9 @@
+function [edge_weights] = rangaggr_build(ranks)
+%RANGAGGR_BRUTE Summary of this function goes here
+%   Detailed explanation goes here
+   [n_voters, n_candidates] = ranks.size();
+   edge_weights = zeros(n_candidates,n_candidates);
+   for 
+
+end
+
